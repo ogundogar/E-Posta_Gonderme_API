@@ -132,5 +132,9 @@ KmaHttpClientService, SmaHttpClientService ve YmHttpClientService servicelerinde
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/a2a59c3d-a251-4205-8f61-94710c452afd)
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/d52cf395-a1e6-4b24-a83c-c7f374bd9dda)
-![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/a2a59c3d-a251-4205-8f61-94710c452afd)
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/97dc902f-5432-4d6e-9ebe-0917cc39eda0)
+![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/a909a886-2679-4126-9eba-25bbc6a16832)
+
+
+
+
