@@ -114,8 +114,9 @@ Yollanan Mailler tablosunda ekle butonuna basıldığında js dom kullanılarak 
 
 KmaHttpClientService, SmaHttpClientService ve YmHttpClientService servicelerindeki getWhere() fonksiyonu buradaki değerleri parametrik olarak alıyor. Daha sonra query string olarak Controller’lar içindeki GetWhere() fonksiyona yolluyor. GetWhere() fonksiyonu filtreleme işlemini yaptıktan sonra response olarak sonucu dönüyor.
 
+<h1>Uygulama İçi Görseller</h1>
 
-<h6>Kullanici Ekleme İşlemi</h6>
+<h3>Kullanici Ekleme İşlemi</h3>
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/4294bb05-45d5-4e26-83c9-32a555c528b2)
 
@@ -123,11 +124,11 @@ KmaHttpClientService, SmaHttpClientService ve YmHttpClientService servicelerinde
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/016512fe-a3b4-4578-a40a-6b16b1506f87)
 
-<h6>Kullanici Tablosunda Ekleme ve Filtreleme İşlemi Sonucu</h6>
+<h3>Kullanici Tablosunda Ekleme ve Filtreleme İşlemi Sonucu</h3>
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/d651bc9b-ccce-46de-86fe-4aa63151dcb3)
 
-<h6>Toplu Mail Atma İşlemi</h6>
+<h3>Toplu Mail Atma İşlemi</h3>
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/a2a59c3d-a251-4205-8f61-94710c452afd)
 
