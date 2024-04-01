@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\bin\Debug\net6.0\E-Posta_Gonderim_API.Domain.deps.json
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\bin\Debug\net6.0\E-Posta_Gonderim_API.Domain.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\bin\Debug\net6.0\E-Posta_Gonderim_API.Domain.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\refint\E-Posta_Gonderim_API.Domain.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\E-Posta_Gonderim_API.Domain.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Core\E-Posta_Gonderim_API.Domain\obj\Debug\net6.0\ref\E-Posta_Gonderim_API.Domain.dll

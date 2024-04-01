@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\E-Posta_Gonderim_API.API.props" />
+</Project>

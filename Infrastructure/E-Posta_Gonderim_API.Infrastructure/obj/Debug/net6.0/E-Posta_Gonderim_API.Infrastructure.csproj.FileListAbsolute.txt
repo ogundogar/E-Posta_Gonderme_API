@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.deps.json
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\refint\E-Posta_Gonderim_API.Infrastructure.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\ref\E-Posta_Gonderim_API.Infrastructure.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Application.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Domain.dll
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Application.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\bin\Debug\net6.0\E-Posta_Gonderim_API.Domain.pdb
+C:\Users\User\Documents\GitHub\E-Posta_Gonderim_API\Infrastructure\E-Posta_Gonderim_API.Infrastructure\obj\Debug\net6.0\E-Posta_Gonderim_API.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{146F4AD4-F961-4E52-8972-DDD864C6EF5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Posta_Gonderim_API.Domain", "Core\E-Posta_Gonderim_API.Domain\E-Posta_Gonderim_API.Domain.csproj", "{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Posta_Gonderim_API.Application", "Core\E-Posta_Gonderim_API.Application\E-Posta_Gonderim_API.Application.csproj", "{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{0CA2D650-F4AC-4FBB-8651-62037A5023DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{335CE7BE-14BD-4D1F-A8A3-2664E3D808E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Posta_Gonderim_API.Infrastructure", "Infrastructure\E-Posta_Gonderim_API.Infrastructure\E-Posta_Gonderim_API.Infrastructure.csproj", "{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Posta_Gonderim_API.Persistence", "Infrastructure\E-Posta_Gonderim_API.Persistence\E-Posta_Gonderim_API.Persistence.csproj", "{439B16F1-A393-4D07-B16A-8A6F524C30E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Posta_Gonderim_API.API", "Presentation\E-Posta_Gonderim_API.API\E-Posta_Gonderim_API.API.csproj", "{7BF229FE-5B1F-435E-99E1-591D50650CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439B16F1-A393-4D07-B16A-8A6F524C30E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439B16F1-A393-4D07-B16A-8A6F524C30E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439B16F1-A393-4D07-B16A-8A6F524C30E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439B16F1-A393-4D07-B16A-8A6F524C30E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF229FE-5B1F-435E-99E1-591D50650CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF229FE-5B1F-435E-99E1-591D50650CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF229FE-5B1F-435E-99E1-591D50650CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF229FE-5B1F-435E-99E1-591D50650CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65EE7CCC-2A61-4E30-9F95-5D27977BC3C2} = {146F4AD4-F961-4E52-8972-DDD864C6EF5A}
+		{F62C1FFA-CD2C-4DA7-B83A-24EA520A1719} = {146F4AD4-F961-4E52-8972-DDD864C6EF5A}
+		{90F257FC-714D-4AB8-8D7A-7CAE7E1F50B5} = {0CA2D650-F4AC-4FBB-8651-62037A5023DF}
+		{439B16F1-A393-4D07-B16A-8A6F524C30E1} = {0CA2D650-F4AC-4FBB-8651-62037A5023DF}
+		{7BF229FE-5B1F-435E-99E1-591D50650CE0} = {335CE7BE-14BD-4D1F-A8A3-2664E3D808E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C6F70D-A5E4-4EDD-8CCC-C337836D7643}
+	EndGlobalSection
+EndGlobal
