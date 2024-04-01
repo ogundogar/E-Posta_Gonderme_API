@@ -115,15 +115,19 @@ KmaHttpClientService, SmaHttpClientService ve YmHttpClientService servicelerinde
 
 
 <p style="color: red;">Kullanici Ekleme İşlemi</p>
+
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/4294bb05-45d5-4e26-83c9-32a555c528b2)
 
 <p style="color: red;">Kullanici Tablosunda Filtreleme İşlemi</p>
+
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/016512fe-a3b4-4578-a40a-6b16b1506f87)
 
 <p style="color: red;">Kullanici Tablosunda Ekleme ve Filtreleme İşlemi Sonucu</p>
+
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/d651bc9b-ccce-46de-86fe-4aa63151dcb3)
 
 <p style="color: red;">Toplu Mail Atma İşlemi</p>
+
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/a2a59c3d-a251-4205-8f61-94710c452afd)
 
 ![image](https://github.com/ogundogar/E-Posta_Gonderme_API/assets/92091170/d52cf395-a1e6-4b24-a83c-c7f374bd9dda)
